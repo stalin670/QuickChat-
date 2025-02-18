@@ -3,55 +3,42 @@
 
 @plugin "daisyui/theme" {
   name: light;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    "Helvetica Neue", Arial, sans-serif;
 }
 
 @plugin "daisyui/theme" {
   name: dark;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    "Helvetica Neue", Arial, sans-serif;
 }
 
 @plugin "daisyui/theme" {
   name: cupcake;
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
 @plugin "daisyui/theme" {
   name: bumblebee;
-  font-family: "Courier New", Courier, monospace;
 }
 
 @plugin "daisyui/theme" {
   name: emerald;
-  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 @plugin "daisyui/theme" {
   name: corporate;
-  font-family: Arial, Helvetica, sans-serif;
 }
 
 @plugin "daisyui/theme" {
   name: synthwave;
-  font-family: "Courier New", Courier, monospace;
 }
 
 @plugin "daisyui/theme" {
   name: retro;
-  font-family: "Times New Roman", Times, serif;
 }
 
 @plugin "daisyui/theme" {
   name: cyberpunk;
-  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
-    "Liberation Mono", "Courier New", monospace;
 }
 
 @plugin "daisyui/theme" {
   name: valentine;
-  font-family: "Brush Script MT", cursive;
 }
 
 @plugin "daisyui/theme" {
@@ -60,28 +47,22 @@
 
 @plugin "daisyui/theme" {
   name: garden;
-  font-family: "Lucida Handwriting", "Lucida Calligraphy", cursive;
 }
 
 @plugin "daisyui/theme" {
   name: forest;
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
 @plugin "daisyui/theme" {
   name: aqua;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
 }
 
 @plugin "daisyui/theme" {
   name: lofi;
-  font-family: "Consolas", "Monaco", monospace;
 }
 
 @plugin "daisyui/theme" {
   name: pastel;
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
 @plugin "daisyui/theme" {
@@ -90,75 +71,60 @@
 
 @plugin "daisyui/theme" {
   name: wireframe;
-  font-family: Chalkboard, "Comic Sans MS", sans-serif;
 }
 
 @plugin "daisyui/theme" {
   name: black;
-  font-family: "Arial Black", "Gadget", sans-serif;
 }
 
 @plugin "daisyui/theme" {
   name: luxury;
-  font-family: "Garamond", "Baskerville", serif;
 }
 
 @plugin "daisyui/theme" {
   name: dracula;
-  font-family: "Courier New", Courier, monospace;
 }
 
 @plugin "daisyui/theme" {
   name: cmyk;
-  font-family: "Impact", "Charcoal", sans-serif;
 }
 
 @plugin "daisyui/theme" {
   name: autumn;
-  font-family: "Georgia", serif;
 }
 
 @plugin "daisyui/theme" {
   name: business;
-  font-family: "Verdana", "Geneva", sans-serif;
 }
 
 @plugin "daisyui/theme" {
   name: acid;
-  font-family: "Courier New", Courier, monospace;
 }
 
 @plugin "daisyui/theme" {
   name: lemonade;
-  font-family: "Lucida Console", "Monaco", monospace;
 }
 
 @plugin "daisyui/theme" {
   name: night;
-  font-family: "Century Gothic", "Futura", sans-serif;
 }
 
 @plugin "daisyui/theme" {
   name: coffee;
-  font-family: "Bookman", "URW Bookman L", serif;
 }
 
 @plugin "daisyui/theme" {
   name: winter;
-  font-family: "Arial Narrow", sans-serif;
 }
 
 @plugin "daisyui/theme" {
   name: dim;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", sans-serif;
 }
 
 @plugin "daisyui/theme" {
   name: nord;
-  font-family: "Calibri", "Candara", sans-serif;
 }
 
 @plugin "daisyui/theme" {
   name: sunset;
-  font-family: "Gill Sans", "Gill Sans MT", sans-serif;
 }
