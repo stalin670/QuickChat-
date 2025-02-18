@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "main": "src/server.js",
   "scripts": {
-    "dev" : "nodemon src/server.js"
+    "dev": "nodemon src/server.js",
+    "start": "node src/server.js"
   },
   "keywords": [],
   "author": "",
-  "type" : "module",
+  "type": "module",
   "license": "ISC",
   "description": "",
   "dependencies": {
@@ -19,6 +20,7 @@
     "express": "^4.21.2",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.10.1",
+    "quick-chat": "file:..",
     "socket.io": "^4.8.1"
   },
   "devDependencies": {
