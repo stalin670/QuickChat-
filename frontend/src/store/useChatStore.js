@@ -1,6 +1,6 @@
 import { create } from "zustand";
 import toast from "react-hot-toast";
-import { axiosInstance } from "../lib/axios";
+import { axiosInstance } from "../lib/axiosInstance";
 import { useAuthStore } from "./useAuthStore";
 
 export const useChatStore = create((set) => ({
@@ -33,4 +33,6 @@ export const useChatStore = create((set) => ({
       set({ isMessagesLoading: false });
     }
   },
+
+  setSelectedUser: (selectedUser) => set({ selectedUser }),
 }));
