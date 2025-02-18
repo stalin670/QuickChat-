@@ -99,6 +99,16 @@ export const updateProfile = async (req, res) => {
 
     // console.log("first cloudinary 1");
 
+    if (profilePic) {
+      if (req.user.profilePic) {
+        // https://res.cloudinary.com/dyfqon1v6/image/upload/v1712997552/zmxorcxexpdbh8r0bkjb.png
+        // console.log(req.user.profilePic);
+        await cloudinary.uploader.destroy(
+          req.user.profilePic.split("/").pop().split(".")[0]
+        );
+      }
+    }
+
     const uploadResponse = await cloudinary.uploader.upload(profilePic);
     const updatedUser = await User.findByIdAndUpdate(
       userId,
