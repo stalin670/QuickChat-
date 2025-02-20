@@ -7,7 +7,7 @@ A real-time chat application with live message updates using WebSockets, featuri
 - **Frontend**: [Vite](https://vitejs.dev/) + [React](https://reactjs.org/) + [Tailwind CSS + DaisyUI](https://tailwindcss.com/)
 - **Backend**: [Node.js](https://nodejs.org/en/) + [Express](https://expressjs.com/) + [MongoDB](https://www.mongodb.com/)
 - **Authentication**: [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken), [bcrypt.js](https://github.com/dcodeIO/bcrypt.js)
-- **Deployment**:  Frontend(Static index.html file) + Backend on [Render](https://render.com/)
+- **Deployment**:  [Frontend(Static index.html file) + Backend] on [Render](https://render.com/)
 
 ## 🔗 Live Demo
 
